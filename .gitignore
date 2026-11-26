@@ -1,0 +1,16 @@
+
+# Compiled Rust binaries
+/first-rust-program
+/first-rust-program.exe
+
+# Cargo build directory (for future use)
+/target/
+
+# Temporary editor files
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
